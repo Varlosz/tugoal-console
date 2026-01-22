@@ -1,0 +1,10 @@
+TOTAL DE EQUIPAS: 8
+ID;Nome;Pontos;Jogos;V;E;D;GM;GS;DG
+6;Boavista;0;0;0;0;0;0;0;0
+7;FC Porto;0;0;0;0;0;0;0;0
+4;Casa Pia;0;0;0;0;0;0;0;0
+1;SC Braga;0;0;0;0;0;0;0;0
+5;Vizela;0;0;0;0;0;0;0;0
+8;Benfica;0;0;0;0;0;0;0;0
+3;Moreirense;0;0;0;0;0;0;0;0
+2;Estrela da Amadora;0;0;0;0;0;0;0;0

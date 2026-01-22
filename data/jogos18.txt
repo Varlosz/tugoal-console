@@ -1,0 +1,252 @@
+6;Moreirense;2;0;FC Porto;3
+16;Portimonense;4;3;Gil Vicente;12
+2;Benfica;0;2;Sporting CP;1
+7;Arouca;5;4;Rio Ave;11
+17;Vizela;1;0;Boavista;15
+18;Chaves;4;1;Estrela da Amadora;14
+10;Farense;1;0;Famalicao;8
+5;Vitoria SC;2;4;Estoril Praia;13
+4;SC Braga;4;4;Casa Pia;9
+12;Gil Vicente;2;4;Rio Ave;11
+2;Benfica;3;1;FC Porto;3
+5;Vitoria SC;3;4;Chaves;18
+14;Estrela da Amadora;1;0;Boavista;15
+4;SC Braga;2;1;Famalicao;8
+7;Arouca;1;0;Casa Pia;9
+16;Portimonense;3;3;Vizela;17
+6;Moreirense;3;2;Farense;10
+13;Estoril Praia;3;2;Sporting CP;1
+3;FC Porto;4;3;Famalicao;8
+13;Estoril Praia;1;4;Vitoria SC;5
+17;Vizela;3;3;Rio Ave;11
+9;Casa Pia;0;4;Boavista;15
+2;Benfica;1;2;Sporting CP;1
+7;Arouca;0;0;Portimonense;16
+12;Gil Vicente;3;3;SC Braga;4
+14;Estrela da Amadora;2;3;Chaves;18
+6;Moreirense;0;1;Farense;10
+6;Moreirense;0;0;Estrela da Amadora;14
+11;Rio Ave;5;1;Famalicao;8
+2;Benfica;2;3;FC Porto;3
+13;Estoril Praia;1;4;Arouca;7
+10;Farense;0;3;Boavista;15
+4;SC Braga;0;2;Portimonense;16
+1;Sporting CP;4;2;Chaves;18
+12;Gil Vicente;0;0;Vizela;17
+5;Vitoria SC;4;1;Casa Pia;9
+4;SC Braga;1;2;Boavista;15
+11;Rio Ave;1;2;Vitoria SC;5
+1;Sporting CP;2;1;Portimonense;16
+3;FC Porto;0;1;Estrela da Amadora;14
+6;Moreirense;2;0;Casa Pia;9
+12;Gil Vicente;1;1;Farense;10
+17;Vizela;2;2;Chaves;18
+8;Famalicao;2;1;Estoril Praia;13
+2;Benfica;1;2;Arouca;7
+9;Casa Pia;3;0;SC Braga;4
+6;Moreirense;4;0;Benfica;2
+17;Vizela;2;1;Boavista;15
+11;Rio Ave;5;2;Famalicao;8
+5;Vitoria SC;2;3;Portimonense;16
+18;Chaves;3;0;Estoril Praia;13
+3;FC Porto;4;2;Gil Vicente;12
+1;Sporting CP;2;0;Farense;10
+14;Estrela da Amadora;5;1;Arouca;7
+10;Farense;1;2;Sporting CP;1
+3;FC Porto;2;4;Portimonense;16
+4;SC Braga;4;4;Vizela;17
+8;Famalicao;2;4;Estoril Praia;13
+11;Rio Ave;1;3;Moreirense;6
+12;Gil Vicente;0;2;Estrela da Amadora;14
+2;Benfica;0;4;Boavista;15
+9;Casa Pia;4;1;Arouca;7
+18;Chaves;0;4;Vitoria SC;5
+10;Farense;1;0;Casa Pia;9
+14;Estrela da Amadora;2;4;FC Porto;3
+13;Estoril Praia;0;3;Rio Ave;11
+17;Vizela;3;0;Arouca;7
+15;Boavista;2;2;SC Braga;4
+12;Gil Vicente;4;4;Benfica;2
+8;Famalicao;3;4;Chaves;18
+5;Vitoria SC;3;3;Moreirense;6
+16;Portimonense;3;1;Sporting CP;1
+8;Famalicao;3;2;Gil Vicente;12
+14;Estrela da Amadora;3;1;Boavista;15
+4;SC Braga;2;0;Chaves;18
+11;Rio Ave;3;1;Moreirense;6
+2;Benfica;3;0;Vizela;17
+1;Sporting CP;4;0;Casa Pia;9
+13;Estoril Praia;4;1;Portimonense;16
+7;Arouca;1;3;Farense;10
+5;Vitoria SC;3;3;FC Porto;3
+6;Moreirense;3;3;Estrela da Amadora;14
+11;Rio Ave;2;2;Portimonense;16
+15;Boavista;4;2;Gil Vicente;12
+5;Vitoria SC;0;4;Sporting CP;1
+18;Chaves;0;3;FC Porto;3
+7;Arouca;2;3;Benfica;2
+10;Farense;5;1;Vizela;17
+8;Famalicao;3;4;SC Braga;4
+9;Casa Pia;4;2;Estoril Praia;13
+4;SC Braga;2;3;Benfica;2
+5;Vitoria SC;2;0;FC Porto;3
+9;Casa Pia;3;1;Gil Vicente;12
+16;Portimonense;0;3;Vizela;17
+6;Moreirense;2;0;Chaves;18
+14;Estrela da Amadora;0;0;Sporting CP;1
+7;Arouca;3;0;Estoril Praia;13
+10;Farense;0;1;Rio Ave;11
+8;Famalicao;1;4;Boavista;15
+16;Portimonense;5;1;Benfica;2
+17;Vizela;5;0;Rio Ave;11
+10;Farense;4;0;Casa Pia;9
+12;Gil Vicente;3;4;Vitoria SC;5
+7;Arouca;2;3;SC Braga;4
+8;Famalicao;4;0;Moreirense;6
+15;Boavista;3;2;Sporting CP;1
+3;FC Porto;4;2;Chaves;18
+14;Estrela da Amadora;4;0;Estoril Praia;13
+9;Casa Pia;2;1;Chaves;18
+14;Estrela da Amadora;1;3;Famalicao;8
+6;Moreirense;3;3;Benfica;2
+1;Sporting CP;4;4;Estoril Praia;13
+15;Boavista;5;3;FC Porto;3
+12;Gil Vicente;5;3;SC Braga;4
+17;Vizela;2;0;Vitoria SC;5
+7;Arouca;0;4;Portimonense;16
+10;Farense;2;4;Rio Ave;11
+6;Moreirense;2;1;Portimonense;16
+8;Famalicao;1;3;Sporting CP;1
+11;Rio Ave;2;4;Chaves;18
+14;Estrela da Amadora;0;2;Estoril Praia;13
+10;Farense;0;3;FC Porto;3
+5;Vitoria SC;3;1;Benfica;2
+12;Gil Vicente;5;1;Vizela;17
+7;Arouca;0;2;SC Braga;4
+15;Boavista;5;0;Casa Pia;9
+3;FC Porto;2;2;Gil Vicente;12
+16;Portimonense;1;2;Estrela da Amadora;14
+7;Arouca;1;2;Moreirense;6
+9;Casa Pia;4;3;Famalicao;8
+17;Vizela;2;0;Sporting CP;1
+4;SC Braga;0;0;Benfica;2
+5;Vitoria SC;2;4;Rio Ave;11
+18;Chaves;3;4;Boavista;15
+13;Estoril Praia;1;3;Farense;10
+18;Chaves;4;4;Estoril Praia;13
+6;Moreirense;5;3;Gil Vicente;12
+5;Vitoria SC;0;1;Vizela;17
+2;Benfica;0;0;Rio Ave;11
+1;Sporting CP;0;1;Boavista;15
+4;SC Braga;3;2;Estrela da Amadora;14
+9;Casa Pia;4;4;Portimonense;16
+7;Arouca;1;3;Famalicao;8
+10;Farense;1;4;FC Porto;3
+7;Arouca;2;4;Gil Vicente;12
+10;Farense;1;2;Benfica;2
+4;SC Braga;2;2;Vitoria SC;5
+8;Famalicao;3;2;Vizela;17
+6;Moreirense;0;0;Portimonense;16
+1;Sporting CP;1;3;FC Porto;3
+13;Estoril Praia;0;1;Boavista;15
+18;Chaves;2;3;Rio Ave;11
+9;Casa Pia;4;4;Estrela da Amadora;14
+11;Rio Ave;4;3;Arouca;7
+1;Sporting CP;3;1;Famalicao;8
+13;Estoril Praia;5;4;Casa Pia;9
+6;Moreirense;4;3;Vitoria SC;5
+15;Boavista;4;4;Benfica;2
+10;Farense;0;1;Chaves;18
+3;FC Porto;1;0;SC Braga;4
+17;Vizela;2;2;Estrela da Amadora;14
+12;Gil Vicente;2;4;Portimonense;16
+6;Moreirense;1;1;Arouca;7
+16;Portimonense;3;1;Benfica;2
+3;FC Porto;2;4;Famalicao;8
+1;Sporting CP;1;0;Rio Ave;11
+18;Chaves;3;3;SC Braga;4
+14;Estrela da Amadora;1;2;Vitoria SC;5
+15;Boavista;0;3;Estoril Praia;13
+12;Gil Vicente;1;3;Casa Pia;9
+17;Vizela;4;4;Farense;10
+3;FC Porto;0;1;Vizela;17
+1;Sporting CP;3;2;SC Braga;4
+7;Arouca;5;4;Chaves;18
+2;Benfica;3;2;Gil Vicente;12
+13;Estoril Praia;4;4;Moreirense;6
+10;Farense;2;2;Estrela da Amadora;14
+5;Vitoria SC;3;0;Casa Pia;9
+15;Boavista;4;0;Rio Ave;11
+16;Portimonense;4;4;Famalicao;8
+5;Vitoria SC;1;3;Sporting CP;1
+10;Farense;3;4;Arouca;7
+11;Rio Ave;1;2;FC Porto;3
+16;Portimonense;5;3;Estrela da Amadora;14
+18;Chaves;2;2;Vizela;17
+15;Boavista;2;1;Gil Vicente;12
+6;Moreirense;2;4;Casa Pia;9
+4;SC Braga;0;2;Estoril Praia;13
+2;Benfica;1;4;Famalicao;8
+7;Arouca;1;2;Famalicao;8
+4;SC Braga;2;2;Estrela da Amadora;14
+17;Vizela;1;4;Moreirense;6
+13;Estoril Praia;2;4;FC Porto;3
+12;Gil Vicente;2;3;Rio Ave;11
+16;Portimonense;3;3;Farense;10
+5;Vitoria SC;1;3;Boavista;15
+18;Chaves;3;0;Benfica;2
+9;Casa Pia;4;0;Sporting CP;1
+16;Portimonense;0;1;SC Braga;4
+1;Sporting CP;2;2;Arouca;7
+14;Estrela da Amadora;2;2;Vizela;17
+13;Estoril Praia;2;1;Moreirense;6
+3;FC Porto;5;1;Rio Ave;11
+15;Boavista;4;1;Farense;10
+2;Benfica;5;3;Famalicao;8
+5;Vitoria SC;0;4;Gil Vicente;12
+18;Chaves;3;4;Casa Pia;9
+2;Benfica;4;2;Estrela da Amadora;14
+12;Gil Vicente;1;1;Farense;10
+16;Portimonense;1;4;Famalicao;8
+1;Sporting CP;4;0;Arouca;7
+11;Rio Ave;0;2;Casa Pia;9
+6;Moreirense;0;2;Chaves;18
+13;Estoril Praia;3;4;SC Braga;4
+3;FC Porto;0;3;Vizela;17
+15;Boavista;3;2;Vitoria SC;5
+2;Benfica;4;3;Farense;10
+9;Casa Pia;0;4;Vizela;17
+12;Gil Vicente;1;1;Famalicao;8
+6;Moreirense;4;2;SC Braga;4
+16;Portimonense;0;2;Chaves;18
+14;Estrela da Amadora;2;0;Vitoria SC;5
+15;Boavista;3;2;Arouca;7
+11;Rio Ave;2;0;Sporting CP;1
+13;Estoril Praia;4;4;FC Porto;3
+16;Portimonense;5;0;Vitoria SC;5
+6;Moreirense;0;2;Vizela;17
+11;Rio Ave;0;1;Benfica;2
+1;Sporting CP;1;3;Estrela da Amadora;14
+7;Arouca;1;1;Boavista;15
+18;Chaves;0;4;Gil Vicente;12
+9;Casa Pia;1;0;Famalicao;8
+13;Estoril Praia;2;2;Farense;10
+4;SC Braga;1;1;FC Porto;3
+13;Estoril Praia;0;2;Vizela;17
+12;Gil Vicente;1;3;Sporting CP;1
+2;Benfica;0;1;Estrela da Amadora;14
+6;Moreirense;1;1;Boavista;15
+3;FC Porto;2;4;Portimonense;16
+4;SC Braga;5;0;Farense;10
+9;Casa Pia;0;0;Rio Ave;11
+18;Chaves;3;2;Arouca;7
+5;Vitoria SC;3;0;Famalicao;8
+5;Vitoria SC;2;2;SC Braga;4
+13;Estoril Praia;5;2;Rio Ave;11
+12;Gil Vicente;0;3;Arouca;7
+18;Chaves;3;2;Sporting CP;1
+10;Farense;4;4;Famalicao;8
+9;Casa Pia;3;0;Estrela da Amadora;14
+6;Moreirense;1;2;FC Porto;3
+16;Portimonense;2;1;Boavista;15
+17;Vizela;0;3;Benfica;2
